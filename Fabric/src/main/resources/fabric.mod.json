@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "altereddamage",
-  "version": "3.2",
+  "version": "3.3",
 
   "name": "Altered Damage",
   "description": "A minimalistic configurable mod that alters damage taken with a modifier by players and other entities.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/altered-damage",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Altered%20Damage",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Altered%20Damage"
+    "homepage": "https://serilum.com/mod/altered-damage",
+    "sources": "https://github.com/Serilum/Altered-Damage",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Altered%20Damage"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.13"
+    "collective": ">=7.21"
   },
 
   "custom": {
