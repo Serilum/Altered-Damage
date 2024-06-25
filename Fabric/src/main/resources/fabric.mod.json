@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "altereddamage",
-  "version": "3.3",
+  "version": "3.4",
 
   "name": "Altered Damage",
   "description": "A minimalistic configurable mod that alters damage taken with a modifier by players and other entities.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.61"
+    "collective": ">=7.64"
   },
 
   "custom": {
@@ -46,10 +46,9 @@
 	  " aternosorg",
 	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " Rare Students",
 	  " Shana Gitnick",
+	  " Sukhmai",
 	  " Tyler Behl"
   ]
 }
