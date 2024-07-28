@@ -1,9 +1,8 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natamus.altereddamage.forge.mixin",
+  "package": "com.natamus.altereddamage.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "altereddamage_forge.refmap.json",
   "mixins": [
 
   ],
