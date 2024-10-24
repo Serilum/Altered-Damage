@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "altereddamage",
+  "version": "3.5",
+
+  "name": "Altered Damage",
+  "description": "A minimalistic configurable mod that alters damage taken with a modifier by players and other entities.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/altered-damage",
+    "sources": "https://github.com/Serilum/Altered-Damage",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Altered%20Damage"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.altereddamage.ModFabric" ], "modmenu": [ "com.natamus.altereddamage.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "java": ">=21",
+    "collective": ">=7.86"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " kate1073",
+	  " Michael W. S.",
+	  " Tyler Behl",
+	  " XAgent"
+  ]
+}
