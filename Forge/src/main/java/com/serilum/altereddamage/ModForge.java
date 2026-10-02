@@ -1,8 +1,8 @@
-package com.natamus.altereddamage;
+package com.serilum.altereddamage;
 
-import com.natamus.altereddamage.forge.config.IntegrateForgeConfig;
-import com.natamus.altereddamage.forge.events.ForgeAlterDamageEvent;
-import com.natamus.altereddamage.util.Reference;
+import com.serilum.altereddamage.forge.config.IntegrateForgeConfig;
+import com.serilum.altereddamage.forge.events.ForgeAlterDamageEvent;
+import com.serilum.altereddamage.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
@@ -30,7 +30,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeAlterDamageEvent.registerEventsInBus();
+		ForgeAlterDamageEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {

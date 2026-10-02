@@ -1,7 +1,7 @@
-package com.natamus.altereddamage;
+package com.serilum.altereddamage;
 
-import com.natamus.altereddamage.events.AlterDamageEvent;
-import com.natamus.altereddamage.util.Reference;
+import com.serilum.altereddamage.events.AlterDamageEvent;
+import com.serilum.altereddamage.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
