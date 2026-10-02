@@ -1,13 +1,13 @@
-package com.natamus.altereddamage.neoforge.events;
+package com.serilum.altereddamage.forge.events;
 
-import com.natamus.altereddamage.events.AlterDamageEvent;
+import com.serilum.altereddamage.events.AlterDamageEvent;
 import net.minecraft.world.entity.LivingEntity;
-import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.neoforge.event.entity.living.LivingIncomingDamageEvent;
+import net.minecraftforge.event.entity.living.LivingHurtEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
 
-public class NeoForgeAlterDamageEvent {
+public class ForgeAlterDamageEvent {
 	@SubscribeEvent
-	public static void onEntityDamageTaken(LivingIncomingDamageEvent e) {
+	public static void onEntityDamageTaken(LivingHurtEvent e) {
 		LivingEntity livingEntity = e.getEntity();
 
 		float originalDamage = e.getAmount();
