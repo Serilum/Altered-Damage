@@ -1,7 +1,7 @@
-package com.natamus.altereddamage.forge.config;
+package com.serilum.altereddamage.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.altereddamage.util.Reference;
+import com.serilum.altereddamage.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
