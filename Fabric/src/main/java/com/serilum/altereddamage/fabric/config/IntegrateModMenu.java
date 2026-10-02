@@ -1,7 +1,7 @@
-package com.natamus.altereddamage.fabric.config;
+package com.serilum.altereddamage.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.altereddamage.util.Reference;
+import com.serilum.altereddamage.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
