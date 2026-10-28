@@ -1,6 +1,6 @@
-package com.natamus.altereddamage;
+package com.serilum.altereddamage;
 
-import com.natamus.altereddamage.config.ConfigHandler;
+import com.serilum.altereddamage.config.ConfigHandler;
 
 public class ModCommon {
 

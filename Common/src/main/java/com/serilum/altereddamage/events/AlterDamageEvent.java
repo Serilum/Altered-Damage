@@ -1,6 +1,6 @@
-package com.natamus.altereddamage.events;
+package com.serilum.altereddamage.events;
 
-import com.natamus.altereddamage.config.ConfigHandler;
+import com.serilum.altereddamage.config.ConfigHandler;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;

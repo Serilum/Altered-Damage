@@ -1,8 +1,8 @@
-package com.natamus.altereddamage;
+package com.serilum.altereddamage;
 
-import com.natamus.altereddamage.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.altereddamage.neoforge.events.NeoForgeAlterDamageEvent;
-import com.natamus.altereddamage.util.Reference;
+import com.serilum.altereddamage.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.altereddamage.neoforge.events.NeoForgeAlterDamageEvent;
+import com.serilum.altereddamage.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.neoforged.neoforge.common.NeoForge;

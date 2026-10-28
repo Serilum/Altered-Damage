@@ -1,6 +1,6 @@
-package com.natamus.altereddamage.neoforge.events;
+package com.serilum.altereddamage.neoforge.events;
 
-import com.natamus.altereddamage.events.AlterDamageEvent;
+import com.serilum.altereddamage.events.AlterDamageEvent;
 import net.minecraft.world.entity.LivingEntity;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.neoforge.event.entity.living.LivingIncomingDamageEvent;
